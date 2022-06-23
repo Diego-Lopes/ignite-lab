@@ -29,7 +29,6 @@ export function Sidebar() {
 
   const { data } = useQuery<GetLessonQueryResponse>(GET_LESSONS_QUERY);
 
-  console.log({ data });
 
 
   return (
@@ -41,6 +40,7 @@ export function Sidebar() {
         {data?.lessons.map(lesson => {
           return (
             <Lesson
+              key={lesson.id}
               title={lesson.title}
               slug={lesson.slug}
               availableAt={new Date(lesson.availableAt)}
