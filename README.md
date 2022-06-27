@@ -21,6 +21,14 @@ Ignite lab criando plataforma de eventos
 ## 🌐 Live Version
 [![Vercel](https://img.shields.io/badge/vercel-000?style=for-the-badge&logo=vercel&logoColor=white)](https://ignite-lab-sepia.vercel.app/)
 
+
+## 🔗 More About Me
+
+[
+  ![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)
+](https://www.linkedin.com/in/diegoloop/)
+
+
 [react]: https://img.shields.io/badge/react-1E4174?style=for-the-badge&logo=react&logoColor=white
 [graphql]: https://img.shields.io/badge/graphql-1E4174?style=for-the-badge&logo=graphql&logoColor=white
 
